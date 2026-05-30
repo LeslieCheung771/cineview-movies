@@ -1,0 +1,3 @@
+# Movie posters
+*.py
+__pycache__/
