@@ -1,3 +1,12 @@
-# Movie posters
+# Scraping / temp
 *.py
 __pycache__/
+scrape_ids_output.txt
+*.tar.gz
+
+# Build artifacts
+.vercel
+
+# IDE
+.vscode/
+.idea/
